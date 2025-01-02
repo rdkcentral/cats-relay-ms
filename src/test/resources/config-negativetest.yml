@@ -1,0 +1,9 @@
+relays:
+  - host: localhost
+    port: 13181
+    deviceId: 2
+    type: ASD
+    maxPort: 4
+    invertRelays:
+      - false
+      - false

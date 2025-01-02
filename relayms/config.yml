@@ -1,0 +1,21 @@
+relays:
+  - host: 192.168.100.131
+    port: 80
+    deviceId: 1
+    type: XWR4R1
+    maxPort: 4
+    invertRelays:
+      - false
+      - false
+      - false
+      - false
+  - host: 192.168.100.132
+    port: 80
+    deviceId: 2
+    type: XWR4R1
+    maxPort: 4
+    invertRelays:
+      - false
+      - false
+      - false
+      - false

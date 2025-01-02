@@ -1,0 +1,16 @@
+relays:
+  - host: localhost
+    port: 13180
+    deviceId: 1
+    type: XWR4R1
+    maxPort: 4
+  - host: localhost
+    port: 13181
+    deviceId: 2
+    type: XWR4R1
+    maxPort: 4
+    invertRelays:
+      - false
+      - false
+      - false
+      - true
