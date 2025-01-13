@@ -40,7 +40,7 @@ Specify the host and port for the relay devices this microservice will service i
 #This means slot 33 on the rack will correspond to Relay Device 1.
 relayOffset: 32
 relays:
-      - host: 192.168.100.131
+      - host: 192.168.100.0
         port: 80
         deviceId: 1
         type: XWR4R1
